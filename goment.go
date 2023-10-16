@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/nleeper/goment/locales"
+	"github.com/n3m/goment/locales"
 )
 
 var timeNow = time.Now

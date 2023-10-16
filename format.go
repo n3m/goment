@@ -6,8 +6,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/nleeper/goment/locales"
-	"github.com/nleeper/goment/regexps"
+	"github.com/n3m/goment/locales"
+	"github.com/n3m/goment/regexps"
 	"github.com/tkuchiki/go-timezone"
 )
 
